@@ -112,7 +112,7 @@ function ContactInfo() {
             <span className="me-1"><i className="fa-solid icon fa-location-dot"></i></span>
             <div className="">
               <h4>Office Address</h4>
-              <p>No 30 Howeidy A. Street kado. Abuja, FCT </p>
+              <p> 47 Atta A.A Street Kado Estate, Abuja, FCT</p>
             </div>
           </div>
 
